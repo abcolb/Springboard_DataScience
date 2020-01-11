@@ -1,2 +1,11 @@
 # Springboard_DataScience
-Springboard Data Science coursework
+Springboard Data Science portfolio
+
+
+## Mini Projects
+
+### Data Wrangling
+- JSON
+
+### Statistics
+- Frequentist Inference
